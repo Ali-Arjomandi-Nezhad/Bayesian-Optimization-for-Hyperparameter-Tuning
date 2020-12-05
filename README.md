@@ -1,0 +1,2 @@
+# Bayesian-Optimization-for-Hyperparameter-Tuning
+In order to improve the performance of a machine learning model, it is of high importance to optimize the hyperparameters. These hyperparameters which are not determined by the learning algorithm itself may be the regularization factor for linear models or learning rate for gradient descend-based learning algorithms. Bayesian Optimization (BO) is a highly regarded approach for optimizing hyperparameters. In this repository, we use some examples to clarify how this method can be effective for hyperparameters tuning.    
